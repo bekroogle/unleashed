@@ -1,4 +1,8 @@
-# Foundation Compass Template
+# Unleashed
+
+This is a mobile-ready, touch-develop inspired interface for [c.run](www.github.com/bekroogle/cspotrun)
+
+## It is based on the foundation + compass template:
 
 The easiest way to get started with Foundation + Compass.
 
